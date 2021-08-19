@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+}
+
+/* audio & video */
+video{
+    width: 45%;
+    margin: 0 3%;
+}

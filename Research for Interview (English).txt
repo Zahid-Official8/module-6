@@ -1,0 +1,80 @@
+Question:
+
+1. What is the uses of iframe?
+2. what is the difference between html and html5?
+3. html5 best practice
+4. Why we need to use semantic tags?
+5. What is a ICO File?
+6. Why favicon is important?
+7. What is immediate child selector in css?
+8. What is the difference between svg and png?
+9. What is the difference between SVG and HTML5 Canvas?
+
+
+
+Answer:
+
+1. The ” iframe ” tag defines a rectangular region within the document in which the browser can display a separate document, including scrollbars and borders. An inline frame is used to embed another document within the current HTML document. Iframe is basically used to show a webpage inside the current web page.
+
+2. HTML stands for Hyper Text Markup Language. It is used to design web pages using a markup language. HTML is the combination of Hypertext and Markup language. Hypertext defines the link between the web pages. A markup language is used to define the text document within tag which defines the structure of web pages. This language is used to annotate (at the note for computer) text so that a machine can understand it and manipulate text accordingly. Most of the markup (e.g. HTML) languages are human readable. The language uses tags to define what manipulation has to be done on the text. It is used for structuring and presenting the content on the web pages. HTML5 is the fifth version of HTML. Many elements are removed or modified from HTML5.
+
+3. HTML5 has been around for many years now and has been stable and supported at least partially supported by most major browsers since 2014. We are going to present here a list of best coding practices regarding HTML5 markupThis list is from a perspective of creating a clean, maintainable and scalable code, that will make a good use of the semantic markup elements of HTML5 and that will render correctly in supported browsers. Best SEO practices, CSS and js scripting practices and generic front-end development practices are beyond the scope of this article.
+
+4. Anyone who creates content for your website (hopefully everyone) should understand how the pages are structured and the benefits of writing content to fit that structure. There are three main reasons it’s important that your site is readable by both humans and computers: SEO, accessibility, and maintenance.To mainten all of those we need to use semantic tags.
+
+5. ICO file format refers to an image file format that contains small size computer icon images. Mostly used in Microsoft Windows ICO format is capable of containing one or multiple small images of multiples sizes and color depths. Multiple sizes of the ICO images allow icons to be scaled appropriately. On Windows OS, all the icons are ICO format files. Since the launch of this format by Microsoft, it has been developed a lot. Latest ICO images can be of 256 x 256 pixels and contain 24 bits of colors and 8 bits of transparency. CorelDRAW is a great tool for creating and editing ICO images.
+
+6. When it was introduced in 1999 by Internet Explorer, Favicon was not an essential component for websites.But over time, this small 16×16 size icon that appears on the browser tab is sort of becoming an important SEO factor, not only for designers but also for SEO professionals.
+
+7. The CSS child combinator ( > ) can be used to select all elements that are the immediate children of a specified element. A combinator combines and explains the relationship between two or more selectors.
+
+8. SVG and PNG both are a type of image format to store images. SVG is a vector based image format where an image is represented by set of mathematical figures and PNG is a binary image format and it uses lossless compression algorithm to represent image as pixels.
+
+9. The HTML <svg> element is a container for SVG graphics. SVG stands for Scalable Vector Graphics. SVG and useful for defining graphics such as boxes, circles, text, etc. SVG stands for Scalable Vector Graphics and is a language for describing 2D-graphics and graphical applications in XML and the XML is then rendered by an SVG viewer. Most of the web browsers can display SVG just like they can display PNG, GIF, and JPG.The HTML <canvas> element is used to draw graphics, via JavaScript. The<canvas> element is a container for graphics.
+
+
+
+Resourse Link:
+
+Iframe:		https://www.geeksforgeeks.org/html-iframes/
+		https://www.tutorialspoint.com/html/html_iframes.htm
+		https://blog.logrocket.com/the-ultimate-guide-to-iframes/
+
+HTML vs HTML5:	https://www.geeksforgeeks.org/difference-between-html-and-html5/
+		https://www.guru99.com/html-vs-html5.html
+		https://www.educba.com/html-vs-html5/
+		https://www.edureka.co/blog/html-vs-html5/
+
+HTML5:		https://www.themelocation.com/best-html5-practices/
+		https://www.elegantthemes.com/blog/wordpress/semantic-html-best-practices-for-2019
+		https://blog.tbhcreative.com/2015/08/10-best-practices-in-html.html
+		https://www.webfx.com/blog/web-design/20-html-best-practices-you-should-follow/
+
+
+Semantic:	https://seekbrevity.com/semantic-markup-important-web-design/
+		https://dev.to/samkiroko/html5-semantic-tags-why-you-need-to-use-them-2872
+
+
+ICO:		https://www.coreldraw.com/en/pages/ico-file/
+		https://en.wikipedia.org/wiki/ICO_(file_format)
+
+Favicon:	https://www.stanventures.com/blog/favicon-for-seo/
+		https://www.seoptimer.com/blog/what-is-a-favicon/
+		https://www.woorank.com/en/blog/the-importance-of-favicons-for-seo
+
+Child-Selector:	https://www.educative.io/edpresso/what-is-css-immediate-child
+		https://developer.mozilla.org/en-US/docs/Web/CSS/Child_combinator
+		https://www.bitdegree.org/learn/css-child-selector
+
+SVG vs PNG:	https://www.tutorialspoint.com/difference-between-svg-and-png
+		https://www.freepik.com/blog/know-the-difference-between-png-and-svg/
+		https://www.pagecloud.com/blog/web-images-png-vs-jpg-vs-gif-vs-svg
+		https://weblium.com/blog/svg-vs-png-what-is-the-difference/
+
+SVG vs Canvas:	https://www.tutorialspoint.com/What-is-the-difference-between-SVG-and-HTML5-Canvas
+		https://www.educba.com/svg-vs-canvas/
+		https://css-tricks.com/when-to-use-svg-vs-when-to-use-canvas/
+
+
+
+
